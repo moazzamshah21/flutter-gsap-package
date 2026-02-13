@@ -1,0 +1,16 @@
+name: flutter_gsap
+description: A GSAP-style animation package for Flutter — tweens, timelines, scroll-triggered animations, parallax, stagger, and scrub.
+version: 0.1.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
